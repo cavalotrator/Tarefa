@@ -8,7 +8,8 @@ html {
     font-size: 55px;
     background-color: rgb(255, 255, 255);
     padding-left: 70px;
-    padding-top: 50px;
+    padding-top: 20px; 
+    padding-bottom: 20px;
 }
 
 .subtitulo {
